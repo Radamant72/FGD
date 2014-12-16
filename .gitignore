@@ -1,0 +1,43 @@
+#From HubAnswer
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+# From HubAnswer
+Binaries/
+Intermediate/
+Saved/
+ProjectName.opensdf
+ProjectName.sdf
+ProjectName.sln
+ProjectName.v12.suo
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

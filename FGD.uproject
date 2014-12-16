@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C4077240-47E0-1D9B-D82A-92BD3F2322B4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FGD",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
